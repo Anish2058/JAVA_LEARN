@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Inheritance_in_enum.iml" filepath="$PROJECT_DIR$/.idea/Inheritance_in_enum.iml" />
+      <module fileurl="file://$USER_HOME$/Student_Record_Management/Student_Record_Management.iml" filepath="$USER_HOME$/Student_Record_Management/Student_Record_Management.iml" />
     </modules>
   </component>
 </project>
